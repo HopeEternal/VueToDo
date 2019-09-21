@@ -1,5 +1,6 @@
 # VueJS TodoList
-## A small Todo-List project utilizing VueJS, JSON Placeholder, Axios and more.
+
+A small Todo-List project utilizing VueJS, JSON Placeholder, Axios and more.
 
 ## Project setup
 ```
